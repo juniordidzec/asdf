@@ -1,0 +1,11 @@
+.seta-direita:before {
+    position: relative;
+    content: "";
+    display: inline-block;
+    width: 0.4em;
+    height: 0.4em;
+    border-right: 0.2em solid black;
+    border-top: 0.2em solid black;
+    transform: rotate(45deg);
+    margin-right: 0.5em;
+}

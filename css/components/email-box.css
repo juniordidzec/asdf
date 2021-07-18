@@ -1,0 +1,14 @@
+.email-box {
+    width: 80%;
+    height: 50px;
+    font-size: 20px;
+    padding: 0px 0px 0px 10px;
+    border: 0px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.email-box:focus{
+    outline: none !important;
+    border-color: #fff;
+    box-shadow: 0 0 4px #00FF00;
+}

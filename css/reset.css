@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    background-color: #161010;
+    display: flex;
+    flex-wrap: wrap;
+    width: 520px;
+    margin: auto;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
